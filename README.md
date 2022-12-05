@@ -6,15 +6,15 @@
 
 ## 🤵🏼 About Me
 
-- 🌱 I’m currently learning **Back-end web development**
+- 🌱 I’m currently learning **Back-end web development and Flutter (Dart)**
 
-- 🐱‍👤 I'm currently practicing **JavaScript**
+- 🐱‍👤 I'm currently practicing **JavaScript and API interegration in apps**
 
-- ‍📰 2022 Goal: **To get offer in good Company.**
+- ‍📰 Goal: **To get offer in good Company.**
 
 - 📫 How to reach me **[LinkedIn](www.linkedin.com/in/nandakumar-m-b642a821a)**
 
-- ⚡ Fun fact **I shoot Astro photos from highly light pollutrd area.**
+- ⚡ Fun fact **I shoot Astro photos from highly light pollutrd area, means I can do whatever I love to do even its impossible to others. **
 
 ## 🚀 Languages and Tools:
 
@@ -24,6 +24,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.mysql.com" target="_blank"> <img src="https://toppng.com//public/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png"/> </a>
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://w7.pngwing.com/pngs/67/315/png-transparent-flutter-hd-logo-thumbnail.png"/> </a>
 </p>
 
 
