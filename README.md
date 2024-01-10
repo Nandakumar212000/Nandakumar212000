@@ -6,15 +6,13 @@
 
 ## 🤵🏼 About Me
 
-- 🌱 I’m currently learning **Back-end web development and Flutter (Dart)**
+- 🌱 I’m currently learning **React JS**
 
-- 🐱‍👤 I'm currently practicing **JavaScript and API interegration in apps**
-
-- ‍📰 Goal: **To get offer in good Company.**
+- ‍📰 Goal: **To get offer in  vibrant and innovative company that where I can stay motivated with challenges to my skills, and keeps me engaged (never feel bored)..**
 
 - 📫 How to reach me **[LinkedIn](www.linkedin.com/in/nandakumar-m-b642a821a)**
 
-- ⚡ Fun fact **I shoot Astro photos from highly light pollutrd area, means I can do whatever I love to do even its impossible to others. **
+- ⚡ Fun fact **I shoot Astro photos from highly light pollutrd area, means I can do whatever I love to do even its impossible with minimum stuff. **
 
 ## 🚀 Languages and Tools:
 
@@ -33,7 +31,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/Nandakumar212000/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nandakumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nandakumar212000&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -41,7 +39,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Nandakumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nandakumar212000&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Nandakumar212000/github-readme-stats"><img alt="Nandakumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nandakumar212000&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Nandakumar212000/github-readme-stats"><img alt="Nandakumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumar212000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/><br />
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
