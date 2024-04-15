@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **[LinkedIn](www.linkedin.com/in/nandakumar-m-b642a821a)**
 
-- ⚡ Fun fact **I shoot Astro photos from highly light pollutrd area, means I can do whatever I love to do even its impossible with minimum stuff. **
+- ⚡ Fun fact **I do Star Gazing. **
 
 ## 🚀 Languages and Tools:
 
