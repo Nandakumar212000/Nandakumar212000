@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- ‍📰 Goal: **To get offer in  vibrant and innovative company that where I can stay motivated with challenges to my skills, and keeps me engaged (never feel bored)..**
+- ‍📰 Goal: **To get offer in  vibrant and innovative company that where I can stay motivated with challenges to my skills, and keeps me engaged..**
 
 - 📫 How to reach me **[LinkedIn](www.linkedin.com/in/nandakumar-m-b642a821a)**
 
